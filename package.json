@@ -1,0 +1,11 @@
+{
+  "name": "swagger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.2"
+  }
+}
